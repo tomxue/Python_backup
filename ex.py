@@ -4,7 +4,7 @@ import time
   
 # 1.需要备份的文件目录  
 source1 = 'C:\\Users\\tomxue\\Desktop'
-source2 = r'C:\"Program Files\Vim"'
+source2 = r'"C:\Program Files\Vim"'
 cwd = 'C:\\Program Files\\WinRAR'
   
 # 2. 备份文件到目标路径  
