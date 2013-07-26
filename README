@@ -2,3 +2,11 @@ The original code is from link:
 http://zhouyangchenrui.iteye.com/blog/682143
 
 From third commit, it can zip more than one sources.
+
+
+TODO:
+  timed backup
+  multi threads
+  add log system: show backup time, zip file size and what sources are backup
+  apply database for logging
+  add Scrapbook as source for backup  
