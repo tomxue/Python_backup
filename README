@@ -9,4 +9,5 @@ TODO:
   multi threads
   add log system: show backup time, zip file size and what sources are backup
   apply database for logging
-  add Scrapbook as source for backup  
+  add Scrapbook as source for backup
+  Specified for backup Scrapbook's increment
