@@ -6,6 +6,7 @@ From third commit, it can zip more than one sources.
 
 TODO:
   timed backup
+  add GUI
   multi threads
   add log system: show backup time, zip file size and what sources are backup
   apply database for logging
