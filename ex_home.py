@@ -8,7 +8,7 @@ source2 = r'"C:\Program Files (x86)\Vim"'
 cwd = 'C:\\Program Files\\WinRAR'
   
 # 2. 备份文件到目标路径  
-target_dir = 'D:\\Dropbox\\VMware_share\\Backup'
+target_dir = 'D:\\Dropbox\\VMware_share\\Backup\\'
   
 # 3. The files are backed up into a zip file.  
 # 4. The current day is the name of the subdirectory in the main directory  
